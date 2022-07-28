@@ -6,7 +6,7 @@ Simple collection of contact.
 
 # Why
 
-1. Unsaved contacts make Phone, Messages and Facetime mess and hard to fing your contacts.  
+1. Unsaved contacts make Phone, Messages and Facetime mess and hard to find your contacts.  
 2. Creating contacts for numbers is troublesome.  
 3. Profile photos added locally cannot adapt with system appearance.  
 
