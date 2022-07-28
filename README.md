@@ -1,6 +1,6 @@
 # WHATSINContact
 
-Simple collection of contact.
+Grace collection of contacts.
 
 # What
 
@@ -8,7 +8,7 @@ Simple collection of contact.
 
 <img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/lockscreen.png" width="585" height="633">
 
-## In Message
+## In Messages
 
 <img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/knownpopup.png" width="585" height="633">
 
@@ -25,13 +25,13 @@ Simple collection of contact.
 ## To Use
 
 1. Unzip downloaded code zip.  
-2. Import contact.vcf you need to your contact.   
+2. Import contact.vcf you need to your Contacts.   
 
 ## To Update
 
-Actually, unless some known permanent numbers are added to existing WHATSINContact, there is no need to keep local contact up-to-date with WHATSINContact as differences in individual usage habits can lead to differences in the associated numbers.  
+Actually, unless some known permanent numbers are added to existing WHATSINContacts, there is no need to keep local contacts up-to-date with WHATSINContact as differences in individual usage habits can lead to differences in the associated numbers.  
 
 # Tips
 
 - Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContact **AdCaptchas** is set for those numbers including but not limited to advertisements and captchas.  
-- Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
+- Welcome to issues and pull requests if you need new WHATSINContact or have numbers logged.  
