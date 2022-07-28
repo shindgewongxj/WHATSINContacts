@@ -6,11 +6,13 @@ Simple collection of contact.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContact/example/lockscreen.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/lockscreen.png" width="585" height="633">
 
 ## In Message
 
-<img src="https://github.com/shindgewongxj/WHATSINContact/example/knownpopup.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/knownpopup.png" width="585" height="633">
+
+<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/messagedetail.png" width="585" height="633">
 
 # Why
 
