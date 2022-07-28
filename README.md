@@ -4,6 +4,14 @@ Simple collection of contact.
 
 # What
 
+## On Lockscreen
+
+<img src="https://github.com/shindgewongxj/WHATSINContact/example/lockscreen.png" width="585" height="633">
+
+## In Message
+
+<img src="https://github.com/shindgewongxj/WHATSINContact/example/knownpopup.png" width="585" height="633">
+
 # Why
 
 1. Unsaved contacts make Phone, Messages and Facetime mess and hard to find your contacts.  
