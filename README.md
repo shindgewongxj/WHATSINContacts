@@ -1,4 +1,4 @@
-# WHATSINContact
+# WHATSINContacts
 
 Grace collection of contacts.
 
@@ -6,13 +6,13 @@ Grace collection of contacts.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/lockscreen.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/lockscreen.png" width="585" height="633">
 
 ## In Messages
 
-<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/knownpopup.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/knownpopup.png" width="585" height="633">
 
-<img src="https://github.com/shindgewongxj/WHATSINContact/raw/main/example/messagedetail.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/messagedetail.png" width="585" height="633">
 
 # Why
 
@@ -29,9 +29,9 @@ Grace collection of contacts.
 
 ## To Update
 
-Actually, unless some known permanent numbers are added to existing WHATSINContacts, there is no need to keep local contacts up-to-date with WHATSINContact as differences in individual usage habits can lead to differences in the associated numbers.  
+Actually, unless some known permanent numbers are added to existing WHATSINContacts, there is no need to keep local contacts up-to-date with WHATSINContacts as differences in individual usage habits can lead to differences in the associated numbers.  
 
 # Tips
 
-- Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContact **AdCaptchas** is set for those numbers including but not limited to advertisements and captchas.  
-- Welcome to issues and pull requests if you need new WHATSINContact or have numbers logged.  
+- Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContacts **AdCaptchas** is set for those numbers including but not limited to advertisements and captchas.  
+- Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
