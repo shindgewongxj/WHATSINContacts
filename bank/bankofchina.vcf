@@ -4,8 +4,12 @@ PRODID:-//Apple Inc.//iPhone OS 16.0//EN
 N:;;;;
 FN:Bank of China
 ORG:Bank of China;
+item1.EMAIL;type=INTERNET;type=pref:boczhangdan@bankofchina.com
+item1.X-ABLabel:_$!<Other>!$_
 TEL;type=MAIN;type=pref:95566
 TEL;type=OTHER;type=VOICE:106980095566
+item2.URL;type=pref:https://www.boc.cn
+item2.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAUAAAAFACAYAAADNkKWqAAAAAXNSR0IArs
  4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQA
  AAABAAABQKADAAQAAAABAAABQAAAAABiXyf0AAA/+0lEQVR4Ae2dCYBcRZ3/q97ra45cQLgJIt
