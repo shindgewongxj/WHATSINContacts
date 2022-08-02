@@ -1,6 +1,6 @@
 # WHATSINContacts
 
-Grace collection of contacts.
+A grace collection of contacts.
 
 # What
 
@@ -25,7 +25,7 @@ Grace collection of contacts.
 ## To Use
 
 1. Unzip downloaded code zip.  
-2. Import contact.vcf you need to your Contacts.   
+2. Import contact.vcf you need to Contacts.   
 
 ## To Update
 
@@ -33,5 +33,5 @@ Actually, unless some known permanent numbers are added to existing WHATSINConta
 
 # Tips
 
-- Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContacts **AdCaptchas** is set for those numbers including but not limited to advertisements and captchas.  
+- Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContacts **AdCaptchas** is set for those numbers including but not limited to advertisements and captchas. If you are using message filters and want keep it working, please do NOT add AdCaptchas to Contacts.  
 - Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
