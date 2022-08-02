@@ -3,11 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 16.0//EN
 N:;;;;
 FN:China CITIC Bank
-ORG:China CITIC Bank;
-TEL;type=MAIN;type=CELL;type=VOICE;type=pref:95558
-URL:https://www.citicbank.com
-EMAIL;TYPE=WORK:service@service.citiccard.com
-EMAIL;TYPE=WORK:citiccard@citiccard.com
+ORG:China CITIC Bank
+X-PHONETIC-ORG:Zhōng Xìn Yín Háng
+EMAIL;type=INTERNET;type=WORK;type=pref:service@service.citiccard.com
+EMAIL;type=INTERNET;type=WORK:citiccard@citiccard.com
+TEL;type=MAIN;type=pref:95558
+item1.URL;type=pref:https://www.citicbank.com
+item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAUAAAAFACAYAAADNkKWqAAAAAXNSR0IArs
  4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQA
  AAABAAABQKADAAQAAAABAAABQAAAAABiXyf0AABAAElEQVR4Ae19CWAdVbn/OTN3ydrSPVvbJE
