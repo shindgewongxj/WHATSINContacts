@@ -3,8 +3,6 @@ VERSION:3.0
 N:;;;;
 FN:Industrial and Commercial Bank of China
 ORG:Industrial and Commercial Bank of China;
-item1.EMAIL;type=INTERNET;type=pref:email
-item1.X-ABLabel:_$!<Other>!$_
 TEL;type=MAIN;type=pref:95588
 item2.URL;type=pref:https://www.icbc.com.cn
 item2.X-ABLabel:_$!<HomePage>!$_
