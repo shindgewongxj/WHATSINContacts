@@ -35,4 +35,5 @@ Actually, unless some known permanent numbers are added to existing WHATSINConta
 
 - Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContacts **Anycodes** and **Anyservices** are set for those numbers including but not limited to advertisements and captchas. If you are using a message filter and want keep it working, please do add **Anycodes** only.  
 - Those VCF ends with suffix **0** includes no numbers which are set for users who need customization.  
+- Due to non-support for VCF multi-language on Apple devices, you may need to edit names by yourself.  
 - Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
