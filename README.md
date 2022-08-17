@@ -35,6 +35,6 @@ Unless some known permanent numbers are added to existing WHATSINContacts, there
 
 - Due to the quantity and uncertainty of SMS gateway numbers, WHATSINContacts **Anycodes** and **Anyservices** are set for those numbers including but not limited to advertisements and captchas.  
 - If you are using a message filter and want to keep it working, please do add **Anycodes** only.  
-- Those VCF  in the folder **simple** includes no numbers which are set for users who need customization.  
+- Those VCF  in the folder **simple** includes no uncertain numbers which are set for users who need customization.  
 - Due to VCF multi-language unsupported on Apple devices, you may need to edit names by yourself.  
 - Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
