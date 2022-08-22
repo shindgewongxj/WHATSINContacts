@@ -13,6 +13,7 @@ A grace collection of contacts.
 <img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/popup.png" width="585">
 
 ## For Details
+
 <img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/details.png" width="585">
 
 # Why
@@ -27,7 +28,9 @@ A grace collection of contacts.
 
 1. Download the latest verion in Release.  
 2. Create a list in Contacts and keep it actived.  
+!()[https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/example/contacts.png]
 3. Import **whatsincontacts.vcf**.  
+!()[https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/example/import.png]
 
 ## To Update
 
