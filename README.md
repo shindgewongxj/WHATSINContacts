@@ -6,13 +6,13 @@ A grace collection of contacts.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/lockscreen.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/lockscreen.png" width="585">
 
 ## In Messages
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/knownpopup.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/popup.png" width="585">
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/messagedetail.png" width="585" height="633">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/details.png" width="585">
 
 # Why
 
