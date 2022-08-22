@@ -35,6 +35,5 @@ Unless some known permanent numbers are added to existing WHATSINContacts, there
 # Tips
 
 - Importing is recommended to be done on macOS as iCloud syncing will disable transparent background.  
-- The **whatsincontactssimple.vcf** includes no uncertain numbers which are set for users who need customization.  
-- Due to VCF multi-language unsupported on Apple devices, you may need to edit names by yourself.  
+- Due to VCF multi-language unsupported on Apple devices, you may need to choose different versions.  
 - Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
