@@ -12,6 +12,7 @@ A grace collection of contacts.
 
 <img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/popup.png" width="585">
 
+## For Details
 <img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/details.png" width="585">
 
 # Why
