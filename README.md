@@ -6,17 +6,15 @@ A grace collection of contacts.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/notification.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/notification.png" height="369">
 
 ## In Messages
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/unread.png" width="585">
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/popup.png" width="585">
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/message.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/unread.png" height="369"><img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/popup.png" height="369"><img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/message.png" height="369">
 
 ## For Details
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/detail.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/detail.png" height="369">
 
 # Why
 
@@ -30,10 +28,9 @@ A grace collection of contacts.
 
 1. Download the latest verion in Release.  
 2. Create a list in Contacts and keep it actived.  
-![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/contacts.png)
+<img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/contacts.png" height="369">
 3. Import **whatsincontacts.vcf**.  
-![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/import.png)
-![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/duplicate.png)
+<img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/import.png" height="369"><img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/duplicate.png" height="369">
 
 ## To Update
 
