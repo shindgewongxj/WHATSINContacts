@@ -6,15 +6,17 @@ A grace collection of contacts.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/lockscreen.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/notification.png" width="585">
 
 ## In Messages
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/popup.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/unread.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/popup.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/message.png" width="585">
 
 ## For Details
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/example/details.png" width="585">
+<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/detail.png" width="585">
 
 # Why
 
@@ -28,9 +30,10 @@ A grace collection of contacts.
 
 1. Download the latest verion in Release.  
 2. Create a list in Contacts and keep it actived.  
-![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/example/contacts.png)
+![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/contacts.png)
 3. Import **whatsincontacts.vcf**.  
-![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/example/import.png)
+![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/import.png)
+![](https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/duplicate.png)
 
 ## To Update
 
