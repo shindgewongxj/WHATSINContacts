@@ -6,11 +6,11 @@ A grace collection of contacts.
 
 ## On Lockscreen
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/notification.gif" height="369">
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/notification.gif)
 
 ## In Messages
 
-<img src="https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/messages.gif" height="369">
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/messages.gif)
 
 # Why
 
@@ -24,9 +24,10 @@ A grace collection of contacts.
 
 1. Download the latest verion in Release.  
 2. Create a list in Contacts and keep it actived.  
-<img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/contacts.gif" height="369">
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/contacts.gif)
 3. Import **whatsincontacts.vcf**.  
-<img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/import.gif" height="369"><img src="https://raw.githubusercontent.com/shindgewongxj/WHATSINContacts/main/preview/update.gif" height="369">
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/import.gif)
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/update.gif)
 
 ## To Update
 
