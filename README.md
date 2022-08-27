@@ -2,6 +2,8 @@
 
 A grace collection of contacts.
 
+[中文](https://github.com/shindgewongxj/WHATSINContacts/raw/main/README_zh.md)
+
 # What
 
 ## On Lockscreen
@@ -16,7 +18,8 @@ A grace collection of contacts.
 
 1. Unsaved contacts make Phone, Messages, and Facetime a mess, and hard to find your contacts.  
 2. Creating contacts for numbers is troublesome.  
-3. Profile photos added locally cannot adapt to system appearance.  
+3. Profile photos added locally cannot adapt to system appearance. 
+4. Message filter's poor handling of verification code messages.
 
 # How
 
@@ -35,6 +38,6 @@ Unless some known permanent numbers are added to existing WHATSINContacts, there
 
 # Tips
 
-- Importing is recommended to be done on macOS as iCloud syncing will disable transparent background.  
+- Importing is recommended to be done on 'macOS' as iCloud syncing will disable transparent background.  
 - Due to VCF multi-language unsupported on Apple devices, you may need to choose different versions.  
 - Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
