@@ -40,4 +40,4 @@ Unless some known permanent numbers are added to existing WHATSINContacts, there
 
 - Importing is recommended to be done on `macOS` as iCloud syncing will disable transparent background.  
 - Due to VCF multi-language unsupported on Apple devices, you may need to choose different versions.  
-- Welcome to issues and pull requests if you need new WHATSINContacts or have numbers logged.  
+- Welcome to `issues` and `pull requests` if you need new WHATSINContacts or have numbers logged.  
