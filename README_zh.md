@@ -2,7 +2,7 @@
 
 一个不那么丑甚至有点好看的通讯录。
 
-[英文](https://github.com/shindgewongxj/WHATSINContacts/blob/main/README.md)
+[English](https://github.com/shindgewongxj/WHATSINContacts/blob/main/README.md)|中文
 
 # 是何
 

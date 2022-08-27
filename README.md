@@ -2,7 +2,7 @@
 
 A grace collection of contacts.
 
-[中文](https://github.com/shindgewongxj/WHATSINContacts/blob/main/README_zh.md)
+[中文](https://github.com/shindgewongxj/WHATSINContacts/blob/main/README_zh.md)|English
 
 # What
 
