@@ -1,6 +1,6 @@
 # WHATSINContacts
 
-![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/whatsincontacts.png)
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/whatsincontacts.png)  
 
 A grace collection of contacts.
 

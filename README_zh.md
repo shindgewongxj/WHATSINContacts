@@ -1,6 +1,6 @@
 # WHATSINContacts
 
-![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/whatsincontacts.png)
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/whatsincontacts.png)  
 
 一个不那么丑甚至有点好看的通讯录。
 
