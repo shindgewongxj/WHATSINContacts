@@ -1,5 +1,7 @@
 # WHATSINContacts
 
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/whatsincontacts.png)
+
 A grace collection of contacts.
 
 [中文](https://github.com/shindgewongxj/WHATSINContacts/blob/main/README_zh.md) | English
