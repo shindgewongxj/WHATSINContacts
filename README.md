@@ -28,8 +28,9 @@ A grace collection of contacts.
 ## To Use
 
 1. Download the latest verion in Release.  
-2. Create a list in Contacts and keep it actived.  
-![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/contacts.gif)
+2. Create a list in Contacts and keep it actived.  ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/contacts.gif)
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/smartlist.gif)
+
 3. Import **whatsincontacts.vcf**.  
 ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/import.gif)
 ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/update.gif)

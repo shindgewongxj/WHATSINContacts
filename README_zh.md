@@ -30,6 +30,7 @@
 1. 在发布中下载最新版本并导入。  
 2. 新建列表并保持其选中状态。  
 ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/contacts.gif)
+![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/smartlist.gif)
 3. 打开**whatsincontacts.vcf**。  
 ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/import.gif)
 ![](https://github.com/shindgewongxj/WHATSINContacts/raw/main/preview/update.gif)
