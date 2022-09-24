@@ -41,7 +41,7 @@ Unless some known permanent numbers are added to existing WHATSINContacts, there
 
 # Tips
 
-- Importing is recommended to be done on `macOS` as iCloud syncing will disable transparent background.  
+- Importing is recommended to be done on `macOS` as iCloud syncing from `iOS` to `macOS` will disable transparent background.  
 - Due to VCF multi-language unsupported on Apple devices, you may need to choose different versions.  
 - There may be some profile images of low quality as the vector version logos are still not found.
 - Welcome to `issues` and `pull requests` if you need new WHATSINContacts or have numbers logged.  
