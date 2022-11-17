@@ -1,10 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//macOS 13.0//EN
 N:;;;;
 FN:Tom Ford
 ORG:Tom Ford;
-TEL;type=OTHER;type=VOICE;type=pref:10694009388000250223
 item1.URL;type=pref:https://tomford.com
 item1.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs
