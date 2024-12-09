@@ -4,6 +4,7 @@ N:;;;;
 FN:Google
 ORG:Google;
 item1.EMAIL;type=INTERNET;type=pref:no-reply@accounts.google.com
+item1.EMAIL;type=INTERNET;type=pref:no-reply@google.com
 item1.X-ABLabel:_$!<Other>!$_
 item2.URL;type=pref:https://google.com
 item2.X-ABLabel:_$!<HomePage>!$_
